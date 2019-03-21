@@ -1,2 +1,2 @@
-# Discordbot
+# A Discord Bot!
 LS bot
