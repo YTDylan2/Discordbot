@@ -1,0 +1,2 @@
+# Discordbot
+LS bot
